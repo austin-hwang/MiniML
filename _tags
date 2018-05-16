@@ -1,0 +1,4 @@
+<AsnLib>: include
+<Lib>: include
+<**/*>: use_str
+<**/*>: not_hygienic, thread, strict-sequence, warn(A-4-33-40-41-42-43-34-44), use_unix

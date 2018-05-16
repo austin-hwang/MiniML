@@ -1,0 +1,1 @@
+| Num _ | Float _ | Bool _ | Raise | Unassigned -> SS.empty
